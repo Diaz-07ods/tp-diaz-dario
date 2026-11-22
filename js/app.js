@@ -468,7 +468,7 @@ const manejarBusqueda = async (
             personajes.length === 0
         ) {
             mostrarMensaje(
-                "No se encontraron personajes con los criterios seleccionados."
+                "No se encontraron personajes con los filtros seleccionados. Prueba con otro nombre, estado o especie"
             );
             limpiarResultados();
             return;
