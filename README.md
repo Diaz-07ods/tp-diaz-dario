@@ -7,15 +7,15 @@ Aplicación web que permite consultar personajes de la serie Rick and Morty util
 **Institución:** UCSA  
 **Variante del TP:** B — Filtro por especie
 
-## Sitios publicados
-
+## Enlaces de publicación
 - **Repositorio GitHub:** https://github.com/Diaz-07ods/tp-diaz-dario
-- **GitHub Pages:** Pendiente de publicación
-- **Vercel:** Pendiente de publicación
+- **GitHub Pages:** https://diaz-07ods.github.io/tp-diaz-dario/
+- **Vercel:** https://tp-diaz-dario.vercel.app/
 
-## Captura
-
-Pendiente de incorporar una captura de la aplicación publicada.
+## Captura de pantalla
+La siguiente imagen muestra la aplicación Rick and Morty
+en funcionamiento, utilizando los filtros de búsqueda.
+![Captura de la aplicación Rick and Morty](img/captura.png)
 
 ## Funcionalidades
 
